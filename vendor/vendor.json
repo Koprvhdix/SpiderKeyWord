@@ -1,0 +1,43 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "anHETE9Z2/JZ7VuZYWbHkliFszQ=",
+			"path": "github.com/moovweb/gokogiri",
+			"revision": "eafc181356de1da75468a7bdf54b430393f9c0e3",
+			"revisionTime": "2015-01-20T19:04:02Z"
+		},
+		{
+			"checksumSHA1": "+9mYXXgDUT3IU0Te2N/+xjBDg7o=",
+			"path": "github.com/moovweb/gokogiri/help",
+			"revision": "eafc181356de1da75468a7bdf54b430393f9c0e3",
+			"revisionTime": "2015-01-20T19:04:02Z"
+		},
+		{
+			"checksumSHA1": "O9JJlCPCE+AeKpn7fSrf8DvdHSQ=",
+			"path": "github.com/moovweb/gokogiri/html",
+			"revision": "eafc181356de1da75468a7bdf54b430393f9c0e3",
+			"revisionTime": "2015-01-20T19:04:02Z"
+		},
+		{
+			"checksumSHA1": "vMnK0XfXfPg9/TTqgu9om3Y3GmM=",
+			"path": "github.com/moovweb/gokogiri/util",
+			"revision": "eafc181356de1da75468a7bdf54b430393f9c0e3",
+			"revisionTime": "2015-01-20T19:04:02Z"
+		},
+		{
+			"checksumSHA1": "D31KCW46MWnDg1uEKwUSjcAL2ck=",
+			"path": "github.com/moovweb/gokogiri/xml",
+			"revision": "eafc181356de1da75468a7bdf54b430393f9c0e3",
+			"revisionTime": "2015-01-20T19:04:02Z"
+		},
+		{
+			"checksumSHA1": "swfZ+b1mlunYFEZe44fQlGvQj6k=",
+			"path": "github.com/moovweb/gokogiri/xpath",
+			"revision": "eafc181356de1da75468a7bdf54b430393f9c0e3",
+			"revisionTime": "2015-01-20T19:04:02Z"
+		}
+	],
+	"rootPath": "SpiderKeyWord"
+}
